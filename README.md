@@ -14,5 +14,5 @@ This project shows analysis of sales data using Power BI.
 - Top salesperson
 
 ## Dashboard Preview
-(Upload screenshot here)
+(Screenshot here)
 <img width="1178" height="655" alt="Screenshot-sale-dashboard" src="https://github.com/user-attachments/assets/343c347e-4da0-4135-be1a-5504395061a1" />
